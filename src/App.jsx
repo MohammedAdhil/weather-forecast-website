@@ -30,7 +30,7 @@ function App() {
   }, []);
 
   // import the API key from .env file
-  const apiKey = import.meta.env.VITE_API_KEY;
+  const apiKey = "b3de0e9109344f6b935125444242006";
 
   // Get user's location using the Geolocation API
   useEffect(() => {
