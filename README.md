@@ -8,9 +8,9 @@ Designed and Built with React, CSS, Chart.js, GeolocationAPI, and WeatherAPI.
 
 ## Screenshots and demo
 
-![image](https://user-images.githubusercontent.com/84178696/207818453-12d1fafa-792b-4159-94f2-e929efc55e72.png)
+![image](https://github.com/MohammedAdhil/nextjs-task/assets/91864779/fad62720-a058-46f1-9bc7-b88d56a35ae3)
 
-![image](https://user-images.githubusercontent.com/84178696/207818860-604879d6-d2b4-445b-99a8-70d32581e7dc.png)
+![image](https://github.com/MohammedAdhil/nextjs-task/assets/91864779/f8fbdbe3-5c14-438d-b3a0-d07c7a957284)
 
 ### [Click to view Live Demo](https://sky-watch-app.vercel.app/)
 
