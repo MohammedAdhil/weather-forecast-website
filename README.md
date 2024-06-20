@@ -1,6 +1,6 @@
 # skyWatch — Weather forecast website
 
-This is an open source project from [DevProjects.](https://www.codementor.io/projects/web/weather-forecast-website-atx32lz7zb) SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current weather and forecast for the next 2 days in any city. Simply type the name of the city you're interested in, and the web app will use the GeolocationAPI and WeatherAPI to retrieve the latest weather data and display it in an easy-to-read format.
+SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current weather and forecast for the next 2 days in any city. Simply type the name of the city you're interested in, and the web app will use the GeolocationAPI and WeatherAPI to retrieve the latest weather data and display it in an easy-to-read format.
 
 ## Tech/framework used
 
@@ -12,7 +12,7 @@ Designed and Built with React, CSS, Chart.js, GeolocationAPI, and WeatherAPI.
 
 ![image](https://user-images.githubusercontent.com/84178696/207818860-604879d6-d2b4-445b-99a8-70d32581e7dc.png)
 
-### [Click to view Live Demo](https://sky-watch.vercel.app/)
+### [Click to view Live Demo](https://sky-watch-app.vercel.app/)
 
 ## Problems and Thought Process
 
